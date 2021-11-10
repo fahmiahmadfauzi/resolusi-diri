@@ -2,3 +2,4 @@ rencana kedepan
 - membuat web simos
 - membuat user pemilik
 - membuat user pemgnhuni
+- membuat apps simos
